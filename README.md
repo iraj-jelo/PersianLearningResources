@@ -24,6 +24,6 @@ Persian Resources:
 * http://www.time.ir/
 
 ### Application:
-* http://www.behnevis.com/en/index.html (Pinglish or finglish (perssian written in english letters) to persian)
+* http://www.behnevis.com/en/index.html (Pinglish or finglish (persian written in english letters) to persian)
 
 
