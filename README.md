@@ -29,4 +29,5 @@ Persian Resources:
 ### Application:
 * http://www.behnevis.com/en/index.html (Pinglish or finglish (persian written in english letters) to persian)
 
-
+### Text to speech:
+* http://www.farsireader.com/english/
