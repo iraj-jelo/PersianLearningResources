@@ -1,5 +1,5 @@
 # Persian Learning Resources
-Persian learning resources and helpful links and applications for newcomers in persian world on the `##persian` IRC channel on freenode.
+Persian learning resources and helpful links and applications for newcomers in Persian world on the `##persian` IRC channel on freenode.
 
 Persian Resources:
 ### Alphabet
