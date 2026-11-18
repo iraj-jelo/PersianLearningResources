@@ -29,6 +29,8 @@ Persian Resources:
 ### Application:
 * http://www.behnevis.com/en/index.html (Pinglish or finglish (persian written in english letters) to persian)
 * [Learn Farsi: Real Persian](https://learn-persian.pages.dev/?utm_source=persian_learning_resources&utm_medium=organic&utm_campaign=github_resource_list) - Spoken-first Persian lessons for beginners and heritage learners, with romanisation, Persian script, audio, quizzes, handwriting practice, and cultural notes.
+* [Finglish](https://learnfinglish.com/) - Spoken Persian lessons in English letters, with audio on every word and a speech check; Module 1 is free with no signup.
 
 ### Text to speech:
 * http://www.farsireader.com/english/
+* [Finglish Persian text to speech](https://learnfinglish.com/tools/persian-audio) - Reads Persian script, Finglish (Pinglish) or English aloud in 8 natural Persian voices and saves an MP3; free with 3 lines a day with no signup and 10 with a free account, 100 a day with Full Access, and the limits are going up as it grows.
